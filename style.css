@@ -1,0 +1,25 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+.feature{
+ background-color: rgba(255, 99, 71, 0.5);
+color: violet;
+font-family:cursive;
+  }
+  .h1,h2,h3{
+    color:aqua
+  }
+*{
+  scroll-behavior: smooth;
+}
+.cart
+  a:hover{
+    text-decoration:none;
+    list-style-type: none;
+  } 
+  .footer_section{
+    border-top: 5px double indigo;
+    
+  }
+  .search_section
+  {
+    background-color:bisque;
+  }
